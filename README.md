@@ -15,18 +15,7 @@ Modo **melhor de 5 rodadas**, **sem repetir cartas** já usadas, **placar acumul
   - **Super Poder** (soma simples das propriedades): maior vence
 - Quem vencer mais atributos na rodada, ganha a rodada.
 - A partida é **melhor de 5**.
-- Ao final, você pode **jogar novamente**; o **placar geral** soma vitórias de partidas.
+- Ao final, você pode **jogar novamente**; o **placar geral** soma vitórias de partida
 
-## 🚀 Como compilar e executar
-
-### Pré-requisito
-Ter o **gcc** instalado.
-
-- **Windows**: instale o [MinGW-w64] ou use o WSL (Ubuntu).
-- **Linux/macOS**: gcc geralmente já disponível (ou instale via gerenciador de pacotes).
-
-### Compilar
-```bash
-gcc -o supertrunfo main.c
 
 
